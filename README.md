@@ -1,6 +1,11 @@
 # ChatBoys
 Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
-## Usage
+
+## Requirements
+
+For development, you will only need Node.js installed on your environement.
+
+## Install
 ```
 npm install
 npm run dev
@@ -8,5 +13,8 @@ npm run dev
 Go to localhost:3000
 ```
 
-## Notes
-The *_html_css* folder It is not part of the app
+## Languages and tools 
+
+Node.js | Express.js | Socket.io | Vanilla JS | ( HTML & CSS ).
+
+
